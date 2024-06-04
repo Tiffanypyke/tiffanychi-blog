@@ -5,3 +5,4 @@ node_modules
 static
 resources
 assets/js/main.bundle.js
+.hugo_build.lock
